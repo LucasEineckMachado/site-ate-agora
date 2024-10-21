@@ -39,5 +39,5 @@ O projeto **HermeSport** é um site de e-commerce voltado para a venda de artigo
 
 - **Gerente de Projeto:** [Bruno, Lucas Eineck Machado]  
 - **Desenvolvedores:** [Bruno, Andrey, Ana, Lucas Eineck Machado]  
-- **Designers:** [Ruan, Rafaela, Andrey]  
-- **Testadores:** [Ana, Rafaela, Ruan]
+- **Designers:** [Ruan,Bruno,Ana]  
+- **Testadores:** [Ana, Rafaela, Ruan,Andrey]
